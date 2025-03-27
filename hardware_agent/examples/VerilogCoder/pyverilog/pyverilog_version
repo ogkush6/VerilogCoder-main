@@ -1,0 +1,9 @@
+commit 81838bc463d17148ef6872af34eb27585ee349ba
+Merge: d04b8f3 dd327b9
+Author: Shinya T-Y <shta.ky1018@gmail.com>
+Date:   Fri Dec 23 23:16:24 2022 +0900
+
+    Merge pull request #99 from leonardt/patch-1
+    
+    Use context manager to avoid ResourceWarning
+
